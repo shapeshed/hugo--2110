@@ -5,8 +5,8 @@ When a `.` character is included in a category name it breaks pagination and ren
 Steps to reproduce
 
 * Clone this repository
-* Install a theme with categories e.g. `git clone https://github.com/carsonip/hugo-theme-minos.git`themes/hugo-theme-minos
-* Generate the site `hugo server --theme=hugo-theme-minos
+* Install a theme with categories e.g. `git clone https://github.com/carsonip/hugo-theme-minos.git themes/hugo-theme-minos`
+* Generate the site `hugo server --theme=hugo-theme-minos`
 * Click on a 'JavaScript' category link
 * Observe this works correctly
 * Return to homepage and click a 'Node.js' category link.
